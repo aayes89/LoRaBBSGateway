@@ -17,6 +17,11 @@ Queda por definir el alcance de la señal, aunque en promedio y según condicion
  * Calendario
  * Tasas de Cambio
 
+# Componentes
+![22AJ1097-40](https://github.com/user-attachments/assets/594b8c0a-9c24-40d5-bc84-94ed5cb10231)
+![51tpg5lAusL _AC_UF894,1000_QL80_](https://github.com/user-attachments/assets/8449b560-d465-4cfe-9080-6fbcbf50618c)
+
+
 # Esquema de conexión Raspberry Pi Pico a SX1278
 * RPI (5) - LORA SS    
 * RPI (6) - LORA RST   
