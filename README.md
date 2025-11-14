@@ -3,7 +3,7 @@ Es un proyecto compuesto que consta de un sistema <b>BBS</b> escrito en Python y
 Para la comunicación LoRa, en los casos de prueba fue utilizado dos Raspberry Pi Pico conectadas a un módulo SX1278 (433MHz) respectivamente.<br>
 <b>(El firmware se comparte en los adjuntos junto con el esquema de conexiones.)</b><br>
 Ha sido probado de PC a PC y PC a celular Android, aunque es compatible con cualquier sistema que admita conexión vía puerto serie.<br>
-Queda por definir el alcance de la señal, aunque en promedio y según condiciones (altura de la antena, obstáculos) puede rondar entre algunos metros a algunos kilómetros (ver <a href="https://www-hackster-io.translate.goog/news/another-record-breaking-transmission-for-lorawan-0cca5f6cd032?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc"> Récords de transmisión</a>)
+Queda por definir el alcance de la señal, aunque en promedio y según condiciones (altura de la antena, obstáculos) puede rondar entre algunos metros a varios kilómetros de distancia. (ver <a href="https://www-hackster-io.translate.goog/news/another-record-breaking-transmission-for-lorawan-0cca5f6cd032?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc"> Récords de transmisión</a>)
 
 # Funcionalidades
  * Buscar en DuckDuckGo
