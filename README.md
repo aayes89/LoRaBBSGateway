@@ -17,10 +17,15 @@ Queda por definir el alcance de la señal, aunque en promedio y según condicion
  * Calendario
  * Tasas de Cambio
 
-# Componentes
-![22AJ1097-40](https://github.com/user-attachments/assets/594b8c0a-9c24-40d5-bc84-94ed5cb10231)
-![51tpg5lAusL _AC_UF894,1000_QL80_](https://github.com/user-attachments/assets/8449b560-d465-4cfe-9080-6fbcbf50618c)
+# Componentes de hardware necesarios para transmisión
+* 16 Cables dupont (hembra - macho)
+* 2 Raspberry Pi Pico (cualquier modelo)
+* 2 Módulo LoRa SX1278 (433Mhz) (8 pines), no usar otra banda (ya que el firmware no será compatible, ver categoría "Por mejorar / hacer")
+<img width="834" height="817" alt="imagen" src="https://github.com/user-attachments/assets/ea61deb3-e71b-4bcc-8097-2b602cca5ad8" />
 
+![22AJ1097-40](https://github.com/user-attachments/assets/594b8c0a-9c24-40d5-bc84-94ed5cb10231)
+
+![51tpg5lAusL _AC_UF894,1000_QL80_](https://github.com/user-attachments/assets/8449b560-d465-4cfe-9080-6fbcbf50618c)
 
 # Esquema de conexión Raspberry Pi Pico a SX1278
 * RPI (5) - LORA SS    
@@ -47,6 +52,7 @@ Queda por definir el alcance de la señal, aunque en promedio y según condicion
 * Seguridad: administración de privilegios para usuarios. (por implementar)
 * Reparar la búsqueda en DuckDuckGo (el scrapping de la web cambia constantemente)
 * Validar que la tasa cambiaria sea oficial según país. (utiliza API gratuita, puede no ser confiable. Se deja aviso durante el uso.)
+* Añadir el firmware con soporte para las bandas de ~900MHz.
 
 # Licencia
 Este proyecto utiliza licencia MIT, leer la licencia para descargo de responsabilidades.
