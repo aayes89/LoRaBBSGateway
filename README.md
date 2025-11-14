@@ -40,6 +40,26 @@ Ha sido probado de PC a PC y PC a celular Android, aunque es compatible con cual
 * Seguridad: sistema de autenticación segura (actualmente sólo login para nick en Foro/Chat y Trivia)
 * Seguridad: administración de privilegios para usuarios. (por implementar)
 * Reparar la búsqueda en DuckDuckGo (el scrapping de la web cambia constantemente)
+* Validar que la tasa cambiaria sea oficial según país. (utiliza API gratuita, puede no ser confiable. Se deja aviso durante el uso.)
 
 # Licencia
 Este proyecto utiliza licencia MIT, leer la licencia para descargo de responsabilidades.
+
+# Capturas
+
+<b> Noticias </b>
+
+<img width="1105" height="486" alt="imagen" src="https://github.com/user-attachments/assets/fabb5201-0160-45ee-8e1a-30964fed6f53" />
+
+<b> El Clima </b>
+
+<img width="305" height="323" alt="imagen" src="https://github.com/user-attachments/assets/6cc5e396-d019-4a4f-b29f-be37ebc5228b" />
+
+<b> Calendario </b>
+
+<img width="472" height="706" alt="imagen" src="https://github.com/user-attachments/assets/9afa6b95-875d-4bee-aae0-71d0c15a7490" />
+
+<b> Tasas de cambio </b>
+
+<img width="416" height="508" alt="imagen" src="https://github.com/user-attachments/assets/651e56be-d185-40e1-b9c3-8cf87e69beb2" />
+
