@@ -57,6 +57,9 @@ Queda por definir el alcance de la señal, aunque en promedio y según condicion
 # Licencia
 Este proyecto utiliza licencia MIT, leer la licencia para descargo de responsabilidades.
 
+# Notas adicionales
+El esquema de conexión utilizado en este proyecto para las Pico + SX1278, es 100% compatible con el proyecto <a href="https://github.com/meshtastic/firmware/releases/download/v2.6.11.60ec05e/firmware-rp2040-2.6.11.60ec05e.zip">Firmware Meshtastic para RP2040</a>, si quisieran cambiar el firmware al del proyecto, no tendrás que cambiar tus conexiones de pines.
+
 # Capturas
 
 <b> Noticias </b>
