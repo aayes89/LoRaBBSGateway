@@ -24,10 +24,18 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 LoRa BBS Gateway - versión 0.1
- - DuckDuckGo con parsing robusto (fallback regex)
- - Wikipedia con encoding UTF-8 y headers
- - LLM: timeout 180s, bucle de prompts hasta 'salir'/'quit', cambio de modelo
- - Sesión persistente, estable, solo responde a órdenes
+ - DuckDuckGo con parsing robusto (fallback regex).
+ - Wikipedia con encoding UTF-8 y headers.
+ - Ver clima.
+ - Consultar noticias según país.
+ - Consultar IA (LM Studio local).
+ - Chat/Foro: mensajes públicos y privados.
+ - Tablón de anuncios: categorías, función de añadir y leer.
+ - Juego Trivia: usando LLM.
+ - Calendario: actual y por fecha específica.
+ - Tasa de cambios: ver valor actual según país. 
+ - LLM: timeout 180s, bucle de prompts hasta 'salir'/'quit', cambio de modelo.
+ - Sesión persistente, estable, solo responde a órdenes.
 """
 import serial
 import threading
@@ -840,5 +848,4 @@ def main():
         time.sleep(1)
 
 if __name__ == "__main__":
-
     main()
